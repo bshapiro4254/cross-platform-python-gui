@@ -1,8 +1,8 @@
+import sys
 sys.path.append("_applibs")
 sys.path.append(".")
 ### Python Lib imports ###
 import random
-import sys
 import os
 import re
 import platform
